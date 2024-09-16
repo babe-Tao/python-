@@ -1,0 +1,20 @@
+。git关联github远程仓库与本地仓库失败。
+1.学习python chap3
+2.学习git的相关使用
+
+。学习python chap3 
+.字符串
+.字符串类型、整形（int）、浮点型（foald）、布欧型
+.正序检测、倒叙检测、切片
+
+。学习git使用
+.创建公钥 
+ssh-keygen -t rsa -b 4096 -C "wan_babetao@163.com"
+.ssh: connect to host github.com port 22: Connection refused
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+!.实验python chap3
+!.嫖点项目运行
