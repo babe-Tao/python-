@@ -1,0 +1,22 @@
+flask架构，基于python的web开发架构。学习flask架构。
+一、git的安装和使用
+二、python第二章练习
+三、了解flask架构，探索学习
+
+1.git的安装和使用
+。安装git，配置全局用户名与邮箱
+。学习github使用，尝试下载github资源
+。上传python chap2 练习
+2.python
+。print函数输出、连字符、chr()函数、ord()函数、open()函数、不换行输出、单行多语句输出
+。input函数字符串输出、内置字符型转换输出
+。单行注释、多行注释、中文文本声明
+3.flask学习
+。安装flask第三方包
+。了解flask
+。学习flask官方问道
+
+。
+！python chap3
+！flask学习计划
+！创建本地git库
